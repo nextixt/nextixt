@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @nextixt
+- 👀 I’m interested in neural networks, deep learning and robotics
+- 🌱 I’m currently learning Python, ML
+- 💞️ I’m looking to collaborate on different Ml projects
+- 📫 How to reach me: Telegram: @nextixt
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like cookies)🍪🍪
